@@ -1,0 +1,14 @@
+﻿'Project27.exe' (Win32): Loaded 'C:\Users\shyro\source\repos\Project27\Debug\Project27.exe'. Symbols loaded.
+'Project27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Project27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Project27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Project27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Project27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Project27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2768 has exited with code 0 (0x0).
+'Project27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Project27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Project27.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x42b4 has exited with code 0 (0x0).
+The thread 0x1034 has exited with code 0 (0x0).
+The program '[17308] Project27.exe' has exited with code 0 (0x0).
