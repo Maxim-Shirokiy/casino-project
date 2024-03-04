@@ -1,0 +1,4 @@
+﻿  Dice.cpp
+C:\Users\shyro\source\repos\Project27\Dice.cpp(30,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\shyro\source\repos\Project27\Dice.cpp(42,16): error C2082: redefinition of formal parameter 'Dice1'
+C:\Users\shyro\source\repos\Project27\Dice.cpp(48,16): error C2082: redefinition of formal parameter 'Dice2'
